@@ -1,11 +1,12 @@
 # DS-Lite
 
 A Simple, Single-File Multi-AI Agent System for Data Science
-Welcome to DS-Lite, a lightweight yet powerful multi-AI agent system designed to simplify your data science workflows. With just one Python file, DS-Lite empowers you to analyze, visualize, and gain insights from your data using a team of specialized AI agents. Whether you're a beginner or an expert, DS-Lite makes data science accessible, efficient, and fun!
+Welcome to DS-Lite, a lightweight yet powerful multi-AI agent system designed to simplify your data science workflows. With just one Python file, DS-Lite empowers you to analyze, visualize, and gain insights from your data using a team of specialized AI agents. Whether you're a beginner or an expert, DS-Lite makes data science accessible, efficient, and fun! 
+
 
 ## What is DS-Lite?
 
-DS-Lite is a single-file Python system that integrates multiple AI agents to automate and streamline data science tasks. Each agent has a specific role, from understanding your dataset to generating analysis plans, writing code, and executing it. It’s designed to be simple to use, yet powerful enough to handle complex data science workflows.
+DS-Lite is a single-file Python system that integrates multiple AI agents to automate and streamline data science tasks. Each agent has a specific role, from understanding your dataset to generating analysis plans, writing code, and executing it. It’s designed to be simple to use, yet powerful enough to handle complex data science workflows. 
 
 ## Key Features
 
