@@ -274,5 +274,5 @@ def main():
     console.print("[bold green]Execution Results:[/bold green]", results.model_dump_json())
 
 if __name__ == "__main__":
-    client = OpenAI(api_key="your_deepseek_api_aki", base_url="https://api.deepseek.com")  # Replace with your actual API key
+    client = OpenAI(api_key="your_deepseek_api_key", base_url="https://api.deepseek.com")  # Replace with your actual API key
     main()
